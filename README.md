@@ -7,7 +7,7 @@ Tehran. Implemented using C++ during fall 2016.
 Assignments
 ===========
 
--   Assignment 1 : Top Down Design : Symmetric key Encryption/Decryption
+-   Assignment 1 : Top Down Design : BitCoin Transaction Simulator
 
 -   Assignment 2 : Recursion
 
