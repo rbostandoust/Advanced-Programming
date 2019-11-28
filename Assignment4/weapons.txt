@@ -1,0 +1,4 @@
+Walther P99, 10, 8, 515.30
+Benelli M4, 40, 3, 1829.99
+shotgun sag khafan, 100, 6, 400
+tofang kheili geroon, 100, 6, 1312123400

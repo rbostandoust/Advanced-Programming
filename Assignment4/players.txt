@@ -1,0 +1,5 @@
+1, behrooz, 70, 800
+2, asb e parande , 100, 2900
+3, vahid, 100, 12900
+4, kebrit, 100, 12900
+5, parande, 100, 12900

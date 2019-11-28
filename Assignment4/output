@@ -1,0 +1,25 @@
+Gholam,
+*,*
+id: 1
+name: Gholam
+accuracy: 70
+investment: 800
+
+Ghamar
+*r*
+Ghamarali
+*i*
+Ghamarali,
+*,*
+id: 2
+name: Ghamarali
+accuracy: 100
+investment: 2900
+
+vahid,
+*,*
+id: 3
+name: vahid
+accuracy: 100
+investment: 12900
+

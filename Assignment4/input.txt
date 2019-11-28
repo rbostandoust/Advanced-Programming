@@ -1,0 +1,65 @@
+newgame
+2
+1 0:1:N
+2 6:6:W
+1252416215 50.00 12320.00
+supports 5 > 2 for 500
+supports 3 > 2 for 500
+supports 4 > 2 for 500
+purchase 1 < Walther P99
+purchase 2 < Benelli M4   
+startgame
+shoot 6:4
+shoot 2:4
+shoot 1:4
+shoot 0:1
+shoot 1:10
+shoot 0:1
+surrender
+newgame
+2
+1 2:1:N
+3 16:6:W
+1452116315 50.00 12000
+supports 2 > 3 for 500.50
+supports 2 > 1 for 100
+purchase 1 < Walther P99
+purchase 3 < Walther P99
+startgame
+shoot 4:1
+shoot 3:0
+shoot 3:2
+shoot 5:0
+shoot 5:2
+shoot 3:1
+shoot 2:1
+shoot 2:1
+shoot 2:1
+shoot 2:1
+shoot 2:1
+shoot 2:1
+shoot 2:1
+shoot 2:1
+shoot 2:1
+shoot 2:1
+newgame
+2
+1 2:1:N
+3 16:6:W
+1452116315 50.00 12000
+supports 2 > 3 for 22500.50
+supports 2 > 1 for 1231100
+purchase 1 < Walther P99	
+purchase 3 < tofang kheili geroon
+startgame
+shoot 16:4
+shoot 2:1
+shoot 1:4
+surrender
+endtournament
+show 2 player with most capital   
+show 2 player with most kills
+show 2 player with most deaths
+show 2 player with least capital
+show 2 player with least kills
+show 2 player with least deaths
